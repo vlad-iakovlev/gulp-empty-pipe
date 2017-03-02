@@ -1,11 +1,12 @@
 {
     "name": "gulp-empty-pipe",
     "description": "Empty gulp pipe",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "main": "index.js",
     "keywords": [ "gulp", "empty", "pipe" ],
     "author": "vlad309523",
     "license": "MIT",
+    "readme": "README.md",
     "homepage": "https://bitbucket.org/vlad309523/gulp-empty-pipe",
     "dependencies": {
         "through": "2"
