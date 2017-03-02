@@ -1,14 +1,12 @@
 {
     "name": "gulp-empty-pipe",
-    "descritption": "",
-    "version": "1.0.0",
+    "descritption": "Empty gulp pipe",
+    "version": "2.0.0",
     "main": "index.js",
     "keywords": [ "gulp", "empty", "pipe" ],
     "author": "vlad309523",
     "license": "MIT",
-    "repository": "https://bitbucket.org/vlad309523/gulp-config.git"
-    "bugs": "https://bitbucket.org/vlad309523/gulp-config/issues",
-    "homepage": "https://bitbucket.org/vlad309523/gulp-config",
+    "homepage": "https://bitbucket.org/vlad309523/gulp-empty-pipe",
     "dependencies": {
         "through": "2"
     }
